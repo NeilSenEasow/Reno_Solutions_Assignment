@@ -30,6 +30,7 @@ export default function HomePage() {
           color="text.secondary"
           sx={{ mt: 2, color: '#4a5568' }}
         >
+          {/* this is a test line */}
           Your all-in-one solution for managing school data. Quickly add new school entries and view them in a beautifully designed catalog.
         </Typography>
       </Box>
